@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Domain",
+    "\\src\\Domain\\Entities",
+    "\\src\\Domain\\obj",
+    "\\src\\Infrastructure"
+  ],
+  "SelectedNode": "\\src\\Infrastructure\\Infrastructure.csproj",
+  "PreviewInSolutionExplorer": false
+}
